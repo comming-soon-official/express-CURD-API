@@ -1,13 +1,13 @@
 # express-CURD-API
 
-prototype
-Created a RestAPI that can perform CURD Operations
-C - Create
-U - update
-R - Read
-D - Delete
-
-And Maintained Neat Code Folder Structure 
-
-To Try this Project 
-Requirement - Postman, node , express
+prototype <br />
+Created a RestAPI that can perform CURD Operations <br />
+C - Create <br />
+U - update <br />
+R - Read <br />
+D - Delete <br />
+<br />
+And Maintained Neat Code Folder Structure <br />
+<br />
+To Try this Project <br />
+Requirement - Postman, node , express<br />
